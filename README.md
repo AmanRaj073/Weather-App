@@ -33,6 +33,7 @@ A simple weather app built with React that allows users to search for weather in
    ```
 
 4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to use the app.
+5. Alternative Hosted Site - https://bespoke-beijinho-34fcc5.netlify.app/
 
 ## Usage
 
